@@ -7,3 +7,4 @@
 * ![BMuschamp](http://githubbadge.appspot.com/BMuschamp)
 * ![bottletopbill](http://githubbadge.appspot.com/bottletopbill)
 * ![cagaz](http://githubbadge.appspot.com/cagaz)
+* ![kiwiroy](http://githubbadge.appspot.com/kiwiroy?s=1&a=0)
